@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<nosqlDB>
+  <node>
+    <key>1</key>
+    <element>
+      <name>Actor1</name>
+      <desc>Actor1 Info and Filmography</desc>
+      <Children>System.Collections.Generic.List`1[System.Int32]</Children>
+      <timestamp>11/19/2015 9:35:40 AM</timestamp>
+      <payload>Johnny Depp</payload>
+    </element>
+  </node>
+  <node>
+    <key>2</key>
+    <element>
+      <name>Film1</name>
+      <desc>Film1 Description</desc>
+      <Children>System.Collections.Generic.List`1[System.Int32]</Children>
+      <timestamp>11/19/2015 9:35:40 AM</timestamp>
+      <payload>Pirates Of Carribean</payload>
+    </element>
+  </node>
+  <node>
+    <key>3</key>
+    <element>
+      <name>Film2</name>
+      <desc>Film2 Description</desc>
+      <Children>System.Collections.Generic.List`1[System.Int32]</Children>
+      <timestamp>11/19/2015 9:35:40 AM</timestamp>
+      <payload>Black Mass</payload>
+    </element>
+  </node>
+</nosqlDB>

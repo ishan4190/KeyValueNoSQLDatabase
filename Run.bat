@@ -1,0 +1,1 @@
+.\TestExec\bin\Debug\TestExec.exe 2 1 Y

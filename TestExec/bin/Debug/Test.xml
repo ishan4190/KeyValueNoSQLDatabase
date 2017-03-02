@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<nosqlDB>
+  <node>
+    <key>1</key>
+    <element>
+      <name>Actor1</name>
+      <desc>Actor1 Info and Filmography</desc>
+      <Children>System.Collections.Generic.List`1[System.Int32]</Children>
+      <timestamp>10/8/2015 11:22:41 PM</timestamp>
+      <payload>Johnny Depp</payload>
+    </element>
+  </node>
+  <node>
+    <key>3</key>
+    <element>
+      <name>editedFilmName</name>
+      <desc>editedFilmDescription</desc>
+      <Children>System.Collections.Generic.List`1[System.Int32]</Children>
+      <timestamp>10/8/2015 11:22:41 PM</timestamp>
+      <payload>New Edited Film Name</payload>
+    </element>
+  </node>
+</nosqlDB>

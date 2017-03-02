@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XML document of type int-string-->
+<noSqlInput>
+  <keytype>string</keytype>
+  <payloadtype>list of strings</payloadtype>
+  <node>
+    <key>6015</key>
+    <element>
+      <name>name : 0</name>
+      <desc>desc : 0</desc>
+      <timestamp>11/19/2015 9:44:12 PM</timestamp>
+      <payload>
+        <item>item0 of 6015</item>
+        <item>item1 of 6015</item>
+        <item>item2 of 6015</item>
+        <item>item3 of 6015</item>
+        <item>item4 of 6015</item>
+        <item>item5 of 6015</item>
+        <item>item6 of 6015</item>
+      </payload>
+      <children>
+        <key>1</key>
+        <key>2</key>
+      </children>
+    </element>
+  </node>
+  <node>
+    <key>2868</key>
+    <element>
+      <name>name : 1</name>
+      <desc>desc : 1</desc>
+      <timestamp>11/19/2015 9:44:12 PM</timestamp>
+      <payload>
+        <item>item0 of 2868</item>
+        <item>item1 of 2868</item>
+        <item>item2 of 2868</item>
+        <item>item3 of 2868</item>
+        <item>item4 of 2868</item>
+      </payload>
+      <children>
+        <key>1</key>
+        <key>2</key>
+      </children>
+    </element>
+  </node>
+  <node>
+    <key>1790</key>
+    <element>
+      <name>name : 2</name>
+      <desc>desc : 2</desc>
+      <timestamp>11/19/2015 9:44:12 PM</timestamp>
+      <payload>
+        <item>item0 of 1790</item>
+        <item>item1 of 1790</item>
+        <item>item2 of 1790</item>
+        <item>item3 of 1790</item>
+        <item>item4 of 1790</item>
+        <item>item5 of 1790</item>
+        <item>item6 of 1790</item>
+      </payload>
+      <children>
+        <key>1</key>
+        <key>2</key>
+        <key>3</key>
+      </children>
+    </element>
+  </node>
+</noSqlInput>
